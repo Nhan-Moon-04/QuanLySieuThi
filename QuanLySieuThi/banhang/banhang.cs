@@ -16,7 +16,7 @@ namespace QuanLySieuThi.banhang
         public int a = 0;
         public int y = 0;
 
-        public string chuoi = "Select masp,tensp,donvitinh,solg,giaban from sanpham";
+        public string chuoi = "Select MaSP,TenSP,DonViTinh,Solg,GiaBan from SanPham";
 
         public banhang()
         {
@@ -45,7 +45,7 @@ namespace QuanLySieuThi.banhang
 
         private void txt_timkiem_TextChanged(object sender, EventArgs e)
         {
-            string load1 = "Select masp,tensp,donvitinh,solg,giaban from sanpham where tensp like N'%" + txt_timkiem.Text + "%' ";
+            string load1 = "Select MaSP,TenSP,DonViTinh,Solg,GiaBan from SanPham where TenSP like N'%" + txt_timkiem.Text + "%' ";
             chuoiketnoi.timkiem(load1, db1);
             db1.Columns[0].HeaderText = "Mã sản phẩm"; db1.Columns[0].Width = 120;
             db1.Columns[1].HeaderText = "Tên sản phẩm"; db1.Columns[1].Width = 120;
@@ -95,7 +95,7 @@ namespace QuanLySieuThi.banhang
                 txt_slgban.Text = dta2.Rows[curow].Cells[4].Value.ToString();
                 y = int.Parse(txt_slgban.Text);
 
-                string solg = "Select solg from sanpham where masp ='" + txt_mathuoc.Text + "'";
+                string solg = "Select SoLg from sanpham where MaSP ='" + txt_mathuoc.Text + "'";
                 SqlDataReader rd3 = chuoiketnoi.showtext(solg);
                 while (rd3.Read())
                 {
@@ -149,9 +149,9 @@ namespace QuanLySieuThi.banhang
                     dta2.Rows[n].Cells[4].Value = txt_slgban.Text;
                     dta2.Rows[n].Cells[5].Value = s.ToString();
 
-                    string sql1 = "Update sanpham set solg ='" + x.ToString() + "'   WHERE masp ='" + dta2.Rows[n].Cells[0].Value.ToString() + "'";
+                    string sql1 = "Update SanPham set Solg ='" + x.ToString() + "'   WHERE masp ='" + dta2.Rows[n].Cells[0].Value.ToString() + "'";
                     chuoiketnoi.luu(sql1);
-                    string load1 = "Select masp,tensp,donvitinh,solg,giaban from  sanpham where  masp ='" + dta2.Rows[n].Cells[0].Value.ToString() + "' ";
+                    string load1 = "Select MaSP,TenSP,DonViTinh,Solg,GiaBan from SanPham where  MaSP ='" + dta2.Rows[n].Cells[0].Value.ToString() + "' ";
                     chuoiketnoi.Chuoiketnoi_Data(load1, db1);
                     txt_dangthuoc.Text = "";
                     txt_gia.Text = "";
@@ -188,9 +188,9 @@ namespace QuanLySieuThi.banhang
 
 
                 int h = a + y;
-                string sql1 = "Update sanpham set Solg ='" + h.ToString() + "' WHERE masp ='" + txt_mathuoc.Text + "'";
+                string sql1 = "Update SanPham set Solg ='" + h.ToString() + "' WHERE MaSP ='" + txt_mathuoc.Text + "'";
                 chuoiketnoi.Execute(sql1);
-                string load1 = "Select masp,tensp,donvitinh,solg,giaban from sanpham  where  masp ='" + txt_mathuoc.Text + "' ";
+                string load1 = "Select masp,tensp,donvitinh,solg,giaban from sanpham  where  MaSP ='" + txt_mathuoc.Text + "' ";
                 chuoiketnoi.Chuoiketnoi_Data(load1, db1);
                 int seleRow = dta2.CurrentCell.RowIndex;
                 dta2.Rows.RemoveAt(seleRow);

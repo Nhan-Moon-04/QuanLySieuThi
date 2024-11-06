@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|d:\\onedrive - msft\\learn\\c\u00F4ng ngh\u1EC7 .net\\do an\\quanlysieuthi-main\\quanlysieuthi\\main2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\main2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\quanlysieuthi\\taikhoan\\frmtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\taikhoan\\frmtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\quanlysieuthi\\taikhoan\\doimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\taikhoan\\doimk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\quanlysieuthi\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\quanlysieuthi\\banhang\\banhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\banhang\\banhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\quanlysieuthi\\banhang\\banhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\banhang\\banhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\quanlysieuthi\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\quanlysieuthi\\quanly\\frmthongtindonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\quanly\\frmthongtindonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\quanlysieuthi\\quanly\\frmthongtindonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\quanly\\frmthongtindonhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\quanlysieuthi\\quanly\\nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\quanly\\nhacungcap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\quanlysieuthi\\taikhoan\\frmtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\taikhoan\\frmtaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\quanlysieuthi\\quanly\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\quanly\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\quanlysieuthi\\quanly\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\quanly\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\quanlysieuthi\\chuoiketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\chuoiketnoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\quanlysieuthi\\quanly\\sanpham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\quanly\\sanpham.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\quanlysieuthi\\main1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\main1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\quanlysieuthi\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA7A9888-FA04-466B-90D0-CF2A7CECC943}|QuanLySieuThi\\QuanLySieuThi.csproj|solutionrelative:quanlysieuthi\\dangky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main2.cs [Design]",
+              "DocumentMoniker": "D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\QuanLySieuThi\\main2.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\main2.cs",
+              "ToolTip": "D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\QuanLySieuThi\\main2.cs [Design]",
+              "RelativeToolTip": "QuanLySieuThi\\main2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T17:16:43.293Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoiMk.cs [Design]",
+              "DocumentMoniker": "D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\QuanLySieuThi\\TaiKhoan\\DoiMk.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\TaiKhoan\\DoiMk.cs",
+              "ToolTip": "D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\QuanLySieuThi\\TaiKhoan\\DoiMk.cs [Design]",
+              "RelativeToolTip": "QuanLySieuThi\\TaiKhoan\\DoiMk.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T17:16:40.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmTaiKhoan.cs [Design]",
+              "DocumentMoniker": "D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\QuanLySieuThi\\TaiKhoan\\frmTaiKhoan.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\TaiKhoan\\frmTaiKhoan.cs",
+              "ToolTip": "D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\QuanLySieuThi\\TaiKhoan\\frmTaiKhoan.cs [Design]",
+              "RelativeToolTip": "QuanLySieuThi\\TaiKhoan\\frmTaiKhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:54:25.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmTaiKhoan.cs",
+              "DocumentMoniker": "D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\QuanLySieuThi\\TaiKhoan\\frmTaiKhoan.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\TaiKhoan\\frmTaiKhoan.cs",
+              "ToolTip": "D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\QuanLySieuThi\\TaiKhoan\\frmTaiKhoan.cs",
+              "RelativeToolTip": "QuanLySieuThi\\TaiKhoan\\frmTaiKhoan.cs",
+              "ViewState": "AgIAABgBAAAAAAAAAAAswCwBAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:54:28.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmThongTinDonHang.cs [Design]",
+              "DocumentMoniker": "D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\QuanLySieuThi\\quanly\\frmThongTinDonHang.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\quanly\\frmThongTinDonHang.cs",
+              "ToolTip": "D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\QuanLySieuThi\\quanly\\frmThongTinDonHang.cs [Design]",
+              "RelativeToolTip": "QuanLySieuThi\\quanly\\frmThongTinDonHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:54:16.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmThongTinDonHang.cs",
+              "DocumentMoniker": "D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\QuanLySieuThi\\quanly\\frmThongTinDonHang.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\quanly\\frmThongTinDonHang.cs",
+              "ToolTip": "D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\QuanLySieuThi\\quanly\\frmThongTinDonHang.cs",
+              "RelativeToolTip": "QuanLySieuThi\\quanly\\frmThongTinDonHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T00:12:03.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "nhacungcap.cs [Design]",
+              "DocumentMoniker": "D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\QuanLySieuThi\\quanly\\nhacungcap.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\quanly\\nhacungcap.cs",
+              "ToolTip": "D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\QuanLySieuThi\\quanly\\nhacungcap.cs [Design]",
+              "RelativeToolTip": "QuanLySieuThi\\quanly\\nhacungcap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:54:14.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "banhang.cs [Design]",
+              "DocumentMoniker": "D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\QuanLySieuThi\\banhang\\banhang.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\banhang\\banhang.cs",
+              "ToolTip": "D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\QuanLySieuThi\\banhang\\banhang.cs [Design]",
+              "RelativeToolTip": "QuanLySieuThi\\banhang\\banhang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T10:16:02.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dangnhap.cs [Design]",
+              "DocumentMoniker": "D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\QuanLySieuThi\\Dangnhap.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\Dangnhap.cs",
+              "ToolTip": "D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\QuanLySieuThi\\Dangnhap.cs [Design]",
+              "RelativeToolTip": "QuanLySieuThi\\Dangnhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:54:09.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dangnhap.cs",
+              "DocumentMoniker": "D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\QuanLySieuThi\\Dangnhap.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\Dangnhap.cs",
+              "ToolTip": "D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\QuanLySieuThi\\Dangnhap.cs",
+              "RelativeToolTip": "QuanLySieuThi\\Dangnhap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T00:13:57.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "banhang.cs",
+              "DocumentMoniker": "D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\QuanLySieuThi\\banhang\\banhang.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\banhang\\banhang.cs",
+              "ToolTip": "D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\QuanLySieuThi\\banhang\\banhang.cs",
+              "RelativeToolTip": "QuanLySieuThi\\banhang\\banhang.cs",
+              "ViewState": "AgIAADQBAAAAAAAAAAA8wFABAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T06:39:44.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "sanpham.Designer.cs",
+              "DocumentMoniker": "D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\QuanLySieuThi\\quanly\\sanpham.Designer.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\quanly\\sanpham.Designer.cs",
+              "ToolTip": "D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\QuanLySieuThi\\quanly\\sanpham.Designer.cs",
+              "RelativeToolTip": "QuanLySieuThi\\quanly\\sanpham.Designer.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAD4v1IAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:59:27.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "sanpham.cs",
+              "DocumentMoniker": "D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\QuanLySieuThi\\quanly\\sanpham.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\quanly\\sanpham.cs",
+              "ToolTip": "D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\QuanLySieuThi\\quanly\\sanpham.cs",
+              "RelativeToolTip": "QuanLySieuThi\\quanly\\sanpham.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:30:26.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "sanpham.cs [Design]",
+              "DocumentMoniker": "D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\QuanLySieuThi\\quanly\\sanpham.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\quanly\\sanpham.cs",
+              "ToolTip": "D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\QuanLySieuThi\\quanly\\sanpham.cs [Design]",
+              "RelativeToolTip": "QuanLySieuThi\\quanly\\sanpham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:32:01.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "chuoiketnoi.cs",
+              "DocumentMoniker": "D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\QuanLySieuThi\\chuoiketnoi.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\chuoiketnoi.cs",
+              "ToolTip": "D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\QuanLySieuThi\\chuoiketnoi.cs",
+              "RelativeToolTip": "QuanLySieuThi\\chuoiketnoi.cs",
+              "ViewState": "AgIAAFUBAAAAAAAAAAAawGkBAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T07:32:21.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DangKy.cs [Design]",
+              "DocumentMoniker": "D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\QuanLySieuThi\\DangKy.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\DangKy.cs",
+              "ToolTip": "D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\QuanLySieuThi\\DangKy.cs [Design]",
+              "RelativeToolTip": "QuanLySieuThi\\DangKy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:54:07.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "main1.cs [Design]",
+              "DocumentMoniker": "D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\QuanLySieuThi\\main1.cs",
+              "RelativeDocumentMoniker": "QuanLySieuThi\\main1.cs",
+              "ToolTip": "D:\\OneDrive - MSFT\\Learn\\C\u00F4ng Ngh\u1EC7 .Net\\Do An\\QuanLySieuThi-main\\QuanLySieuThi\\main1.cs [Design]",
+              "RelativeToolTip": "QuanLySieuThi\\main1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T14:54:11.536Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
